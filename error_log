@@ -1,0 +1,317 @@
+[13-Aug-2019 12:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[13-Aug-2019 12:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[13-Aug-2019 12:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[13-Aug-2019 12:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[13-Aug-2019 12:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[13-Aug-2019 12:51:27 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/plc_select.php on line 17
+[13-Aug-2019 12:51:27 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/plc_select.php on line 17
+[13-Aug-2019 12:51:27 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/plc_select.php on line 19
+[13-Aug-2019 12:51:27 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/plc_select.php on line 19
+[13-Aug-2019 12:51:27 UTC] PHP Fatal error:  QUERY FAIL: SELECT * FROM plc_assets WHERE id = '3' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/plc_select.php on line 21
+[13-Aug-2019 12:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[13-Aug-2019 12:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[14-Aug-2019 06:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[14-Aug-2019 06:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[14-Aug-2019 06:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[19-Aug-2019 05:09:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[19-Aug-2019 06:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[19-Aug-2019 06:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/theartzo/public_html/linfox/include/select.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/theartzo/public_html/linfox/include/select.php on line 113
+[19-Aug-2019 06:39:22 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 06:39:22 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 06:39:22 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 62
+[19-Aug-2019 09:25:35 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/select_sub.php on line 36
+[19-Aug-2019 09:43:54 UTC] PHP Notice:  Undefined index: link in /home/theartzo/public_html/linfox/include/saveLink_sub.php on line 11
+[19-Aug-2019 09:44:07 UTC] PHP Notice:  Undefined index: link in /home/theartzo/public_html/linfox/include/saveLink_sub.php on line 11
+[19-Aug-2019 09:45:13 UTC] PHP Notice:  Undefined index: link in /home/theartzo/public_html/linfox/include/saveLink_sub.php on line 11
+[19-Aug-2019 09:47:36 UTC] PHP Notice:  Undefined index: link in /home/theartzo/public_html/linfox/include/saveLink_sub.php on line 11
+[19-Aug-2019 09:55:14 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 09:55:14 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 09:55:14 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 62
+[19-Aug-2019 10:07:12 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:07:12 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:07:12 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 62
+[19-Aug-2019 10:08:04 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:08:04 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:08:04 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 62
+[19-Aug-2019 10:08:30 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:08:30 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:08:30 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 62
+[19-Aug-2019 10:10:52 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:11:32 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:12:16 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:14:10 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:14:24 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:14:29 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:43:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/theartzo/public_html/linfox/include/select_sub.php on line 71
+[19-Aug-2019 10:43:59 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 10:44:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/theartzo/public_html/linfox/include/select_sub.php on line 71
+[19-Aug-2019 10:44:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/theartzo/public_html/linfox/include/select_sub.php on line 71
+[19-Aug-2019 10:44:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/theartzo/public_html/linfox/include/select_sub.php on line 71
+[19-Aug-2019 12:18:58 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 61
+[19-Aug-2019 12:27:31 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/theartzo/public_html/linfox/include/select_sub.php on line 72
+[19-Aug-2019 12:30:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 15
+[19-Aug-2019 12:41:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 69
+[19-Aug-2019 12:46:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:46:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:48:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:48:13 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 77
+[19-Aug-2019 12:49:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:49:17 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 77
+[19-Aug-2019 12:50:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:50:26 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 77
+[19-Aug-2019 12:51:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:51:28 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 10
+[19-Aug-2019 12:51:28 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 78
+[19-Aug-2019 12:53:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:53:44 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 77
+[19-Aug-2019 12:54:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:54:55 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 79
+[19-Aug-2019 12:55:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:55:39 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 80
+[19-Aug-2019 12:55:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 12:55:49 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 80
+[19-Aug-2019 13:00:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 13:00:21 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 80
+[19-Aug-2019 13:00:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 13:00:40 UTC] PHP Notice:  Undefined variable: Master in /home/theartzo/public_html/linfox/include/select_sub.php on line 80
+[19-Aug-2019 13:01:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[19-Aug-2019 13:04:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:08:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:08:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:11:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:13:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:13:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:16:25 UTC] PHP Parse error:  Invalid indentation - tabs and spaces cannot be mixed in /home/theartzo/public_html/linfox/include/select_sub.php on line 22
+[19-Aug-2019 13:17:23 UTC] PHP Parse error:  Invalid indentation - tabs and spaces cannot be mixed in /home/theartzo/public_html/linfox/include/select_sub.php on line 22
+[19-Aug-2019 13:18:02 UTC] PHP Parse error:  Invalid indentation - tabs and spaces cannot be mixed in /home/theartzo/public_html/linfox/include/select_sub.php on line 22
+[19-Aug-2019 13:19:34 UTC] PHP Parse error:  Invalid indentation - tabs and spaces cannot be mixed in /home/theartzo/public_html/linfox/include/select_sub.php on line 22
+[19-Aug-2019 13:19:56 UTC] PHP Parse error:  Invalid indentation - tabs and spaces cannot be mixed in /home/theartzo/public_html/linfox/include/select_sub.php on line 22
+[19-Aug-2019 13:20:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:20:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:24:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:25:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:25:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:26:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:26:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:27:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:27:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:28:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:30:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:30:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 44
+[19-Aug-2019 13:31:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:31:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:32:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:33:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:33:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:38:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:38:07 UTC] PHP Notice:  Undefined variable: output in /home/theartzo/public_html/linfox/include/select_sub.php on line 101
+[19-Aug-2019 13:41:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:41:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:43:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:43:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:44:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 13:44:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:08:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:09:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:09:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:12:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:12:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:14:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:14:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theartzo/public_html/linfox/include/select_sub.php on line 17
+[19-Aug-2019 14:21:09 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 73
+[19-Aug-2019 14:21:40 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 73
+[19-Aug-2019 14:22:00 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 73
+[20-Aug-2019 04:03:17 UTC] PHP Warning:  move_uploaded_file(uploads/images/asset/sub/5d5b7105a9f3e6.66559781.png): failed to open stream: No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:03:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4Jcvgw' to 'uploads/images/asset/sub/5d5b7105a9f3e6.66559781.png' in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:05:58 UTC] PHP Warning:  move_uploaded_file(uploads/images/asset/sub/5d5b71a6b35b40.18435396.png): failed to open stream: No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:05:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbOsB0e' to 'uploads/images/asset/sub/5d5b71a6b35b40.18435396.png' in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:06:33 UTC] PHP Warning:  move_uploaded_file(uploads/images/asset/sub/5d5b71c9557167.91187068.png): failed to open stream: No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:06:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpO5uNFY' to 'uploads/images/asset/sub/5d5b71c9557167.91187068.png' in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:08:26 UTC] PHP Warning:  unlink(uploads/images/asset/sub/5d5b7069822554.91436460.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 15
+[20-Aug-2019 04:08:26 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 25
+[20-Aug-2019 04:08:26 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 25
+[20-Aug-2019 04:08:26 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 04:08:26 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 04:08:26 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 29
+[20-Aug-2019 04:12:19 UTC] PHP Warning:  unlink(uploads/images/asset/sub/5d5b7069822554.91436460.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 15
+[20-Aug-2019 04:12:19 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 25
+[20-Aug-2019 04:12:19 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 25
+[20-Aug-2019 04:12:19 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 04:12:19 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 04:12:19 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 29
+[20-Aug-2019 04:13:46 UTC] PHP Warning:  move_uploaded_file(uploads/images/asset/sub/5d5b737af15738.48309133.png): failed to open stream: No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:13:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9NDwm1' to 'uploads/images/asset/sub/5d5b737af15738.48309133.png' in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:25:18 UTC] PHP Warning:  move_uploaded_file(uploads/images/asset/sub/5d5b762e8d8076.00942286.png): failed to open stream: No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:25:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpi3wNsR' to 'uploads/images/asset/sub/5d5b762e8d8076.00942286.png' in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:35:59 UTC] PHP Warning:  move_uploaded_file(uploads/images/asset/sub/5d5b78af77a0a9.58259937.png): failed to open stream: No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:35:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdPFvck' to 'uploads/images/asset/sub/5d5b78af77a0a9.58259937.png' in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 26
+[20-Aug-2019 04:53:53 UTC] PHP Notice:  Undefined index: subComponent in /home/theartzo/public_html/linfox/include/select_sub.php on line 6
+[20-Aug-2019 04:53:53 UTC] PHP Notice:  Undefined index: assets_id in /home/theartzo/public_html/linfox/include/select_sub.php on line 7
+[20-Aug-2019 05:09:50 UTC] PHP Notice:  Undefined index: file in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 6
+[20-Aug-2019 05:45:54 UTC] PHP Warning:  unlink(uploads/images/asset/sub/5d5b7cddb5d8e1.04798205.png): No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 14
+[20-Aug-2019 05:45:54 UTC] PHP Notice:  Undefined index: imageData in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 19
+[20-Aug-2019 05:45:54 UTC] PHP Notice:  Undefined offset: 1 in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 21
+[20-Aug-2019 05:45:54 UTC] PHP Notice:  Undefined offset: 1 in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 22
+[20-Aug-2019 05:56:17 UTC] PHP Warning:  file_put_contents(uploads/images/asset/sub/5d5b8b81686b4.png): failed to open stream: No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 24
+[20-Aug-2019 06:05:12 UTC] PHP Warning:  unlink(uploads/images/asset/sub/5d5b8b81686b4.png): No such file or directory in /home/theartzo/public_html/linfox/include/upload_subimg.php on line 14
+[20-Aug-2019 06:21:38 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/theartzo/public_html/linfox/include/select_sub.php on line 102
+[20-Aug-2019 06:30:46 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 25
+[20-Aug-2019 06:30:46 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 25
+[20-Aug-2019 06:30:46 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 06:30:46 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 06:30:46 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 29
+[20-Aug-2019 06:34:46 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 16
+[20-Aug-2019 06:34:46 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:34:46 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:34:46 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:34:46 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:34:46 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:41:16 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 16
+[20-Aug-2019 06:41:16 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:41:16 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:41:16 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:41:16 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:41:16 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:43:38 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 16
+[20-Aug-2019 06:43:38 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:43:38 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:43:38 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:43:38 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:43:38 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:44:55 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 16
+[20-Aug-2019 06:44:55 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:44:55 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:44:55 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:44:55 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:44:55 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:46:05 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 16
+[20-Aug-2019 06:46:05 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:46:05 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:46:05 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:46:05 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:46:05 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:49:28 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 16
+[20-Aug-2019 06:49:28 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:49:28 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:49:28 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:49:28 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:49:28 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:50:20 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 16
+[20-Aug-2019 06:50:20 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:50:20 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 26
+[20-Aug-2019 06:50:20 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:50:20 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:50:20 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:52:26 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 18
+[20-Aug-2019 06:52:26 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:52:26 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 28
+[20-Aug-2019 06:52:26 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:52:26 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 30
+[20-Aug-2019 06:52:26 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 32
+[20-Aug-2019 06:54:15 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 17
+[20-Aug-2019 06:54:15 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 06:54:15 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 27
+[20-Aug-2019 06:54:15 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 29
+[20-Aug-2019 06:54:15 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 29
+[20-Aug-2019 06:54:15 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 31
+[20-Aug-2019 07:08:02 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 21
+[20-Aug-2019 07:08:02 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 32
+[20-Aug-2019 07:08:02 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 32
+[20-Aug-2019 07:08:02 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 34
+[20-Aug-2019 07:08:02 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 34
+[20-Aug-2019 07:08:02 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 36
+[20-Aug-2019 07:09:25 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 21
+[20-Aug-2019 07:09:25 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 35
+[20-Aug-2019 07:09:25 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 35
+[20-Aug-2019 07:09:25 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 37
+[20-Aug-2019 07:09:25 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 37
+[20-Aug-2019 07:09:25 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 39
+[20-Aug-2019 07:12:37 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 21
+[20-Aug-2019 07:12:37 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 33
+[20-Aug-2019 07:12:37 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 33
+[20-Aug-2019 07:12:37 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 35
+[20-Aug-2019 07:12:37 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 35
+[20-Aug-2019 07:12:37 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 37
+[20-Aug-2019 07:13:16 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 21
+[20-Aug-2019 07:13:16 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 33
+[20-Aug-2019 07:13:16 UTC] PHP Notice:  Trying to get property 'errno' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 33
+[20-Aug-2019 07:13:16 UTC] PHP Notice:  Undefined variable: conn in /home/theartzo/public_html/linfox/include/deleteSub.php on line 35
+[20-Aug-2019 07:13:16 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/theartzo/public_html/linfox/include/deleteSub.php on line 35
+[20-Aug-2019 07:13:16 UTC] PHP Fatal error:  QUERY FAIL: update assets_sub set image=null where id = '102' ERRNO:  ERROR:  in /home/theartzo/public_html/linfox/include/deleteSub.php on line 37
+[20-Aug-2019 07:16:16 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 22
+[20-Aug-2019 07:18:55 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 22
+[20-Aug-2019 07:20:33 UTC] PHP Warning:  unlink(../uploads/images/asset/sub/5d5b9270430c0.png): No such file or directory in /home/theartzo/public_html/linfox/include/deleteSub.php on line 22
+[20-Aug-2019 09:13:18 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 73
+[20-Aug-2019 09:14:29 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 73
+[20-Aug-2019 09:14:47 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 73
+[20-Aug-2019 09:15:48 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 73
+[20-Aug-2019 09:15:52 UTC] PHP Warning:  unlink(uploads/5cc79c8a2f60f1.19851429.png): No such file or directory in /home/theartzo/public_html/linfox/include/plc_deleteSub.php on line 15
+[20-Aug-2019 09:36:06 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:37:05 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:37:28 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:39:37 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:40:18 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:47:13 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:50:31 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:51:50 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:52:17 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:52:45 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:53:03 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:55:35 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:57:15 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:58:04 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 09:59:11 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 10:00:16 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 10:02:13 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 10:02:48 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[20-Aug-2019 10:37:07 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/fps_select_sub.php on line 20
+[20-Aug-2019 10:37:35 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/fps_select_sub.php on line 20
+[20-Aug-2019 10:38:40 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/fps_select_sub.php on line 20
+[20-Aug-2019 10:41:53 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/fps_select_sub.php on line 20
+[20-Aug-2019 12:29:34 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/select_sub.php on line 21
+[20-Aug-2019 12:31:05 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/select_sub.php on line 21
+[20-Aug-2019 12:31:32 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/select_sub.php on line 21
+[20-Aug-2019 12:46:21 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/select_sub.php on line 21
+[20-Aug-2019 12:53:03 UTC] PHP Notice:  Undefined index: valid_user in /home/theartzo/public_html/linfox/include/select_sub.php on line 21
+[21-Aug-2019 08:03:19 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[21-Aug-2019 08:03:27 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
+[21-Aug-2019 08:04:40 UTC] PHP Notice:  Trying to get property 'link' of non-object in /home/theartzo/public_html/linfox/include/plc_select_sub.php on line 76
